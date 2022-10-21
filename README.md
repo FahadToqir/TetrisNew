@@ -26,4 +26,4 @@ Per cosegur aixó hem utilitzat:
 
 -_un_ _timer_ _per_ _controlar_ _la_ _caiguda_
 
-!([./images/tertisMain.png])
+!([[./images/tertisMain.png]](https://github.com/FahadToqir/TetrisNew/blob/master/images/tertisMain.png))
