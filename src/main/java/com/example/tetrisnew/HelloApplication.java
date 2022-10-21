@@ -37,7 +37,7 @@ public class HelloApplication extends Application {
         stage.setResizable(false);
         scene.getStylesheets().add(css);
         stage.setScene(scene);
-        stage.show();
+
 
 
     }
