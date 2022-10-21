@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="main" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="420.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.tetrisnew.Scene2Controller">
+    <children>
+        <Line endX="22.666717529296875" endY="-58.70709228515625" layoutX="244.0" layoutY="59.0" startX="22.666717529296875" startY="548.0" />
+      <Rectangle fx:id="newRectangle" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="20.0" layoutX="64.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
+      <SplitPane dividerPositions="0.02202643171806168" layoutX="264.0" prefHeight="600.0" prefWidth="160.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0" />
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0" style="-fx-background-color: lightblue;">
+               <children>
+                    <Text layoutX="11.0" layoutY="59.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-text-fill: white" text="Usuari:" textAlignment="RIGHT">
+                     <font>
+                        <Font name="Times New Roman Bold" size="12.0" />
+                     </font>
+                  </Text>
+                    <Text layoutX="11.0" layoutY="147.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Puntuacio:" textAlignment="RIGHT">
+                     <font>
+                        <Font name="Times New Roman Bold" size="12.0" />
+                     </font>
+                  </Text>
+                    <Text layoutX="15.0" layoutY="239.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Nivel:" textAlignment="RIGHT">
+                     <font>
+                        <Font name="Times New Roman Bold" size="12.0" />
+                     </font>
+                  </Text>
+                    <Text layoutX="13.0" layoutY="327.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lineas" textAlignment="RIGHT">
+                     <font>
+                        <Font name="Times New Roman Bold" size="12.0" />
+                     </font>
+                  </Text>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="21.0" layoutX="10.0" layoutY="74.0" stroke="BLACK" strokeType="INSIDE" width="115.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="21.0" layoutX="10.0" layoutY="160.0" stroke="BLACK" strokeType="INSIDE" width="115.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="21.0" layoutX="10.0" layoutY="248.0" stroke="BLACK" strokeType="INSIDE" width="115.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="21.0" layoutX="10.0" layoutY="338.0" stroke="BLACK" strokeType="INSIDE" width="115.0" />
+                  <ImageView fitHeight="78.0" fitWidth="115.0" layoutX="19.0" layoutY="456.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../../../../../../Users/fahad/Downloads/imagenes/tetrislogo.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+      <Rectangle fx:id="newRectangle1" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="20.0" layoutX="64.0" layoutY="20.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
+      <Rectangle fx:id="newRectangle2" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="20.0" layoutX="64.0" layoutY="40.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
+      <Rectangle fx:id="newRectangle2" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="20.0" layoutX="64.0" layoutY="60.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
+    </children>
+</AnchorPane>
