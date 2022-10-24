@@ -42,7 +42,7 @@
                   <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="21.0" layoutX="10.0" layoutY="160.0" stroke="BLACK" strokeType="INSIDE" width="115.0" />
                   <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="21.0" layoutX="10.0" layoutY="248.0" stroke="BLACK" strokeType="INSIDE" width="115.0" />
                   <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="21.0" layoutX="10.0" layoutY="338.0" stroke="BLACK" strokeType="INSIDE" width="115.0" />
-                  <ImageView fitHeight="78.0" fitWidth="115.0" layoutX="19.0" layoutY="456.0" pickOnBounds="true" preserveRatio="true">
+                  <ImageView fitHeight="78.0" fitWidth="115.0" layoutX="11.0" layoutY="455.0" pickOnBounds="true" preserveRatio="true">
                      <image>
                         <Image url="@../../../../../../../Users/fahad/Downloads/imagenes/tetrislogo.png" />
                      </image>
@@ -53,6 +53,6 @@
       </SplitPane>
       <Rectangle fx:id="newRectangle1" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="20.0" layoutX="64.0" layoutY="20.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
       <Rectangle fx:id="newRectangle2" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="20.0" layoutX="64.0" layoutY="40.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
-      <Rectangle fx:id="newRectangle2" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="20.0" layoutX="64.0" layoutY="60.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
+      <Rectangle fx:id="newRectangle3" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="20.0" layoutX="64.0" layoutY="60.0" stroke="BLACK" strokeType="INSIDE" width="20.0" />
     </children>
 </AnchorPane>
