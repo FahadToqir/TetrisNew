@@ -28,4 +28,4 @@ Per cosegur aixó hem utilitzat:
 
 -_un_ _timer_ _per_ _controlar_ _la_ _caiguda_
 
-![Image text](https://github.com/FahadToqir/TetrisNew/blob/master/images/tertisMain.png)
+![Image text](https://github.com/FahadToqir/TetrisNew/blob/master/images/tetrisMain2.png)
