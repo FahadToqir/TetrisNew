@@ -25,4 +25,4 @@ Per cosegur aixó hem utilitzat:
 -_Una_ _forma_ _geometrica_ _que_ _faci_ _de_ _peça_
 
 -_un_ _timer_ _per_ _controlar_ _la_ _caiguda_
-![Image text][(https://github.com/FahadToqir/TetrisNew/blob/master/images/tertisMain.png)]
+![Image text][([https://github.com/FahadToqir/TetrisNew/blob/master/images/tertisMain.png](https://github.com/FahadToqir/TetrisNew/blob/master/images/tetrisMain1.png))
