@@ -22,7 +22,7 @@ Tot això està construit amb l'opció del SceneBuilder que ens proporciona el J
 **Sprint 2**
 
 
-Hemos desenvolupat el sistema pel qual les peces cauràn fins el limit de la pantalla.
+Hem desenvolupat el sistema pel qual les peces cauràn fins el limit de la pantalla.
 
 Per cosegur aixó hem utilitzat:
 
