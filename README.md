@@ -3,7 +3,7 @@
 
 Hem creat l'entorn on es desenvopularà el nostre Tetris.
 
-Axiò serà el taulell de joc, ón cauràn les peces i s'apliaràn durant la partida.
+Axiò serà el taulell de joc, on cauràn les peces i s'apliaràn durant la partida.
 
 -_L'usuari_ _que_ _esta_ _jugant_.
 
