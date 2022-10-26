@@ -1,9 +1,9 @@
 # TetrisNew
 **Sprint 1**
 
-Vam crear la pantalla on és desenvoluparia el nostre lloc de Tetris.
+Hem creat l'entorn on es desenvopularà el nostre Tetris.
 
-En aquesta pantalla veurem les peces baixant i apilades. Al costat i hauran dades de la partida com:
+Axiò serà el taulell de joc, ón cauràn les peces i s'apliaràn durant la partida.
 
 -_L'usuari_ _que_ _esta_ _jugant_.
 
@@ -13,14 +13,16 @@ En aquesta pantalla veurem les peces baixant i apilades. Al costat i hauran dade
 
 -_El_ _nívell_ _que_ _portem_.
 
-Ho vam fer utilitzant l'opció del SceneBuilder que ens proporciona el JavaFx, que consisteix en modificar un fitxer FXML per poder mostrar en pantalla ( en una escena concreta) el que volem.
+Tot això està construit amb l'opció del SceneBuilder que ens proporciona el JAVAFX, que consisteix en modificar un fitxer FXML per poder mostrar en pantalla l'escenari destijat.
+
 
 ![Image text](https://github.com/FahadToqir/TetrisNew/blob/master/images/tetrisMain1.png)
 
 
 **Sprint 2**
 
-Hem desarrollat el sistema per el qual les peces aniran a caure a abaix de la pantalla pero sense sortir-se d'aquesta. 
+
+Hemos desenvolupat el sistema pel qual les peces cauràn fins el limit de la pantalla.
 
 Per cosegur aixó hem utilitzat:
 
